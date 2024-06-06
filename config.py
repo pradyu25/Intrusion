@@ -1,7 +1,7 @@
 # Configuration file for Intrusion Detection System
 
 # Path to the dataset
-DATASET_PATH = '/content/drive/MyDrive/Intrusion-Detection-System-master/dataset/kddcup.data_10_percent.gz'
+DATASET_PATH = 'kddcup.data_10_percent.gz'
 
 # Features to be used for training the model
 FEATURES = [
