@@ -1,7 +1,3 @@
-Certainly! Below is a comprehensive README.md file for an Intrusion Detection System (IDS) using the Random Forest and Decision Tree algorithms. This README will include sections on Introduction, Installation, Usage, Dataset, Algorithm Details, and Contributing guidelines.
-
----
-
 # Intrusion Detection System using Random Forest and Decision Tree Algorithms
 
 ## Introduction
