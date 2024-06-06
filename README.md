@@ -20,15 +20,6 @@ git clone https://github.com/pradyu25/intrusion-detection-system.git
 pip install -r requirements.txt
 ```
 
-## Usage
-After installing the dependencies, you can use the IDS by executing the following command:
-
-```bash
-python main.py
-```
-
-This will start the IDS and begin analyzing the network traffic data. You can customize the settings and parameters in the `config.py` file according to your requirements.
-
 ## Dataset
 The dataset used for training and testing the IDS is not provided in this repository due to its large size and potential privacy concerns. However, you can use any publicly available dataset for intrusion detection, such as the NSL-KDD dataset or the UNSW-NB15 dataset.
 
